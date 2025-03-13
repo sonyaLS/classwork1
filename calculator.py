@@ -10,5 +10,5 @@ def delenie (a, b):
     else:
         return a/b
 
-def umnagenie (a, b):
+def umnogenie (a, b):
     return a*b

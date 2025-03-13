@@ -14,6 +14,6 @@ while True:
     elif op == 'деление':
         print(delenie(a, b))
     elif op == 'умножение':
-        print(umnagenie(a, b))
+        print(umnogenie(a, b))
 
 
