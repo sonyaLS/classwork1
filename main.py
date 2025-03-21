@@ -1,4 +1,5 @@
 from calculator import *
+from calculator1 import *
 print('Привет! Этот калькулятор ты можешь использовать для сложения, вычитания, деления и умножения.')
 
 while True:
